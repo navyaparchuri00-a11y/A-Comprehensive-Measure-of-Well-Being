@@ -1,0 +1,114 @@
+country,life_expectancy,expected_schooling,mean_schooling,gni_per_capita,hdi_tier
+Norway,82.9,18.2,12.6,66495,Very High
+Switzerland,83.8,16.5,13.4,69310,Very High
+Ireland,81.6,18.9,12.7,79285,Very High
+Germany,81.1,17.0,14.1,54130,Very High
+Hong Kong,84.7,16.4,11.8,64660,Very High
+Australia,83.3,20.6,13.4,45430,Very High
+Iceland,82.8,19.2,13.0,54940,Very High
+Sweden,82.8,16.2,12.6,51610,Very High
+Singapore,83.6,16.4,11.6,90750,Very High
+Netherlands,81.7,18.5,12.3,52270,Very High
+Denmark,81.0,18.8,12.8,59160,Very High
+Finland,81.8,17.5,12.2,48690,Very High
+Canada,82.5,16.4,13.4,46190,Very High
+Luxembourg,82.3,16.0,11.9,116920,Very High
+Austria,81.7,16.2,12.2,50960,Very High
+United Kingdom,81.3,17.4,13.3,42330,Very High
+United States,78.9,16.3,13.7,63540,Very High
+Belgium,81.6,16.9,12.5,46240,Very High
+New Zealand,82.1,19.2,12.8,42060,Very High
+Japan,84.6,15.2,12.8,40240,Very High
+South Korea,83.5,16.7,12.3,42220,Very High
+Israel,82.8,16.0,12.5,43650,Very High
+France,82.5,16.2,12.2,42330,Very High
+Italy,83.3,16.6,12.2,35660,Very High
+Spain,83.6,17.5,11.9,30100,Very High
+Slovenia,81.3,17.2,12.2,33590,Very High
+Czech Republic,79.2,17.2,12.8,38340,Very High
+Greece,81.5,17.9,12.2,20340,High
+Poland,78.0,16.5,12.2,31370,High
+Estonia,78.5,16.2,12.3,31230,High
+Lithuania,76.0,16.0,12.0,28690,High
+Latvia,75.5,15.8,12.1,27040,High
+Slovakia,77.5,15.5,12.4,30730,High
+Portugal,81.3,16.9,11.3,23250,High
+Chile,80.3,16.5,11.3,24610,High
+Hungary,76.8,15.3,12.0,28850,High
+Croatia,78.5,15.5,11.9,22430,High
+Argentina,76.8,17.2,10.7,17960,High
+Uruguay,78.2,15.5,10.2,17390,High
+Russia,72.6,15.2,12.1,26670,High
+Turkey,77.7,17.5,9.3,28420,High
+Malaysia,75.5,15.2,11.2,27650,High
+Romania,75.8,15.0,11.2,28470,High
+Bulgaria,75.0,15.2,11.5,21550,High
+Montenegro,76.5,15.0,11.3,17390,High
+Mexico,75.3,14.5,9.3,17960,High
+Brazil,75.9,15.5,8.0,13440,High
+China,77.4,14.0,8.1,16390,High
+Thailand,77.2,15.5,8.5,16940,High
+Colombia,77.0,14.5,8.5,12260,High
+South Africa,64.1,13.5,10.2,12940,High
+Peru,76.5,14.0,9.5,12440,Medium
+Ecuador,77.0,14.5,9.5,10620,Medium
+Indonesia,71.7,13.5,8.5,11760,Medium
+Philippines,71.2,14.0,9.5,8400,Medium
+Vietnam,75.4,13.5,8.5,7560,Medium
+Egypt,71.8,13.5,7.5,10620,Medium
+Morocco,74.3,13.0,6.5,7560,Medium
+Tunisia,76.5,14.5,8.0,9240,Medium
+Algeria,76.8,14.0,8.5,10080,Medium
+Jordan,74.5,13.0,9.5,9240,Medium
+Lebanon,78.9,13.5,10.5,12600,Medium
+Georgia,74.5,14.0,11.5,10920,Medium
+Armenia,75.3,13.5,11.0,9240,Medium
+Azerbaijan,72.5,12.5,10.0,11760,Medium
+Kazakhstan,73.5,14.5,11.5,22680,Medium
+Ukraine,72.0,15.0,11.5,8400,Medium
+Moldova,72.5,13.0,10.5,4200,Medium
+India,69.7,12.5,6.5,6590,Medium
+Pakistan,67.3,10.5,5.5,5040,Medium
+Bangladesh,72.6,11.5,6.0,5880,Medium
+Sri Lanka,76.9,13.5,10.5,12600,Medium
+Nepal,69.1,12.5,5.5,3360,Medium
+Myanmar,67.1,11.0,5.0,3360,Medium
+Cambodia,69.5,11.0,5.5,4200,Medium
+Laos,68.5,11.5,6.0,5880,Medium
+Mongolia,70.5,13.0,9.5,9240,Medium
+Kenya,66.7,11.0,6.5,4620,Medium
+Ghana,63.9,12.0,7.5,5460,Medium
+Nigeria,54.7,10.5,6.0,5040,Low
+Ethiopia,66.2,9.5,3.5,2520,Low
+Tanzania,66.0,10.5,6.0,2940,Low
+Uganda,63.4,10.0,5.5,2520,Low
+Rwanda,66.7,11.5,6.5,2100,Low
+Mozambique,60.7,9.0,4.0,1260,Low
+Madagascar,66.7,10.5,6.0,1470,Low
+Malawi,64.2,10.0,5.5,1260,Low
+Zambia,63.9,10.5,7.0,3780,Low
+Zimbabwe,60.7,10.0,7.0,2940,Low
+Botswana,69.2,12.0,9.5,15540,Medium
+Namibia,64.2,11.5,7.5,10080,Medium
+Angola,61.2,10.0,5.5,6300,Low
+Cameroon,59.7,10.5,6.5,3780,Low
+Senegal,68.2,10.0,5.0,3360,Low
+Mali,59.3,8.0,2.5,2100,Low
+Burkina Faso,61.7,8.5,3.0,2100,Low
+Niger,62.2,8.0,2.5,1260,Low
+Chad,53.7,7.0,2.0,1680,Low
+Central African Republic,53.2,7.5,3.0,1050,Low
+Democratic Republic of Congo,60.7,9.0,5.0,1260,Low
+Somalia,56.7,6.0,2.0,1260,Low
+South Sudan,57.2,6.5,2.5,1470,Low
+Burundi,61.7,9.0,3.5,735,Low
+Eritrea,66.2,8.5,4.5,2520,Low
+Afghanistan,64.7,10.0,4.0,1890,Low
+Yemen,66.2,10.5,5.5,2520,Low
+Haiti,64.2,10.0,5.0,3360,Low
+Papua New Guinea,64.7,9.5,5.0,5040,Low
+Solomon Islands,69.2,10.5,6.0,4620,Low
+Vanuatu,72.7,11.0,7.0,6300,Low
+Fiji,67.7,13.0,9.5,10080,Medium
+Samoa,73.7,13.5,9.5,9240,Medium
+Tonga,73.7,13.0,10.0,9240,Medium
